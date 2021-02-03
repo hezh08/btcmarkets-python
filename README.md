@@ -5,6 +5,11 @@ The official BTC Markets resources are below: \
 https://api.btcmarkets.net/doc/v3 \
 https://github.com/BTCMarkets/API 
 
+### Installation
+`requests` is required.
+```bash
+pip install -r requirements.txt
+```
 ### Example
 ```python
 
